@@ -1,4 +1,4 @@
-# helio
+# hi-nya
 
 i like this language:
 - Nim - skill [8/10]
